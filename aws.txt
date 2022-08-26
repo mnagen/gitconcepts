@@ -1,0 +1,5 @@
+
+
+aws is a cloud service where you can pay per usage of the services
+
+in aws we have services like ec2, s3, elb, cloudwatch
